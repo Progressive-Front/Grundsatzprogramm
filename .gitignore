@@ -1,0 +1,7 @@
+#	.gitignore
+##	IDE settings
+###	IntelliJ
+.idea
+*.iml
+out
+gen
