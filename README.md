@@ -46,11 +46,11 @@ Seit der Verabscheidung am 23.05.1949 wurden sehr viele Grundrechte in ihrem Wes
 Menschen die aufgrund von Unrecht in Gesetzesform diskriminiert oder Nachteile erhalten haben sind qua gesetz rückwirkend zu rehabilitieren und zu entschädigen.
 - Dies betrifft insbesondere Menschen die infolge opferloser Delikte strafrechtlich verfolgt [u.a. §175 StGB], Ziel von Zwangsmaßnahmen [u.a. OP-Zwang per TSG bis 2011] oder anderweitig diskriminiert wurden [u.a. die Verurteilung von Trans*personen zum geänderten Namen und Geschlecht samt Kostennote]...
   - Über die Höhe der Entschädigung ist für Betroffene der Rechtsweg offen zu halten. Dies betrifft auch langfristige Versorgung und nicht einmalige Zahlungen oder ähnliches.
-- Bei Streichung opferloser Delikte  [z.B. (Beihilfe zum) Schwangerschaftsabbruch] sind alle entsprechenden Verurteilungen automatisch und rückwirkend zurückzunehmen und entsprechende Strafen die bezahlt bzw. abgeleistet wurden zu ersetzen - mit Zinseszinsen!
+- Bei Streichung opferloser Delikte  [z.B. (Beihilfe zum) Schwangerschaftsabbruch] sind alle entsprechenden Verurteilungen automatisch und rückwirkend zurückzunehmen und entsprechende Strafen die bezahlt bzw. abgeleistet wurden zu entschädigen - mit Zinseszinsen!
   - Für weitergehende Entschädigungen muss der Rechtsweg offen stehen...
 - Unrechtmäßige Inhaftierungen sind für die minutengenaue Dauer der Haft zu mindestens der doppelten Höhe des Mindestlohns (zum Zeitpunkt der Feststellung jener Illegalität des Freiheitsentzugs) für die entsprechende Haftzeitpunkte plus ggf. Verdientsausfälle und materielle Verluste infolge der Haft zu entschädigen.
   - Dies gilt auch für jegliche Ingewahrsamnahme einschließlich solcher die keinen Richtervorbehalt oder Haftbefehl zugrunde lagen.
-  - Weitergehende Entschädigungen und Wiedergutmachungen, insbesondere Resozialisierungsmaßnahmen und Traumabehandlungen sind ebenfalls zu entschädigen.
+    - Weitergehende Entschädigungen und Wiedergutmachungen, insbesondere Resozialisierungsmaßnahmen und Traumabehandlungen sind ebenfalls zu entschädigen.
 
 ###
 ####  Bürokratie entschlacken
@@ -97,6 +97,7 @@ Es widerspricht den Grundrechten auf Freizügigkeit und körperlichen Selbstbest
 - Den Zugang zur rechtlichen Anerkennung und medizinischen Versorgung für Trans*, Inter* und nichtbinäre - Personen ist zu gewährleisten unabhägig von der Zustimmung anderer Personen als der Betroffenen.
   - Entsprechende Behandlungen sind als gesetzliche Pflichtleistung durch alle Krankenkassen zu übernehmen.
   - Die Erfassung des Geschlechts ist in sämtlichen offziellen Dokumenten zu unterlassen, ebenso die Speicherung jenes Merkmals durch Behörden.
+    - Dies gilt insbesondere für jegliche "Rosa Listen"! Diese sind ausnahms- und ersatzlos zu vernichten inklusive aller Duplikationen und Sicherungskopien, die diese enthalten!
 
 
 
@@ -118,7 +119,7 @@ Im Sinne einer Entschlackung der Bürokratie und des Sozialen Friedens sollen al
 ####	Bildung gerechter machen!
 Das deutsche Schulsystem ist inhärent klassistisch, ableistisch, sexistisch und bisweilen sogar offen rassistisch!
 - Die Abschaffung des gegliederten Schulsystems und Deförderalisierung des Bildungssystems ist notwendig und überfällig um den konsequenten Abwärtstrend im Vergleich zu anderen Staaten aufzuhalten.
-  - Eine Sonderung von Schulpflichtigen nach Behinderung, Staatsangehörigkeit, Religionszugehörigkeit sowie Vermögens- und Einkommensverhältnisse [der Eltern] ist erwiesenermaßen existent und gehört abgeschafft!
+  - Eine Sonderung von Schulpflichtigen nach Behinderung, Staatsangehörigkeit, Religionszugehörigkeit sowie Vermögens- und Einkommensverhältnisse [der Eltern] ist erwiesenermaßen existent und gehört abgeschafft und verboten!
 - Es sind nicht nur Gelder sondern auch qualifiziertes Personal für Bildungsreformen und Weiterbildung bereitzustellen.
 - Wissen ist als Allgemeingut und Zugang zur Bildung als Menschenrecht zu stärken!
   - In diesem Sinne sollte der Staat offene Lernmaterialen nicht nur fördern und fordern, sondern die Nutzung permissiver Lizenzen sowie Bereitstellung in digitaler Form ohne Kopierschutz vorschreiben!
@@ -161,7 +162,7 @@ Das Klima wird nicht dadurch gerettet indem wir Alles mit Verbrenner durch Lithi
     - Statt Innenstädte zulasten aller für Autoverkehr zu optimieren wollen, sollten Bus- und Bahnnetze ausgebaut, verdichtet und attraktiver gestaltet werden.
   - Anstelle der sukzessiven Zerstörung des 9€-Tickets ist über eine Abschaffung von Tickets im ÖPNV & ÖPFV ergebnisoffen nachzudenken.
     - Die existierenden Diskriminierungen beim 49€-Ticket, welche es für viele Menschen ohne entsprechend hohes oder stabiles Einkommen oder ladungsfähiger Anschrift samt Bonität nicht verfügbar macht sind abzuschaffen und zu verbieten!
-      - Es gibt keinen Rationalen Grund warum dies als vorausbezahlte Monatskarte nicht gegen Bargeld an Verkaufsstellen und Verkaufsautomaten beziehbar ist!
+      - Es gibt keinen rationalen Grund warum dies als vorausbezahlte Monatskarte nicht gegen Bargeld an Verkaufsstellen und Verkaufsautomaten beziehbar ist!
 - Barrierefreiheit - nicht nur aber besonders im ÖPNV & ÖPFV - gehört nicht nur gefördert sondern ausnahmslos vorgeschrieben!
 
 ###
@@ -169,6 +170,9 @@ Das Klima wird nicht dadurch gerettet indem wir Alles mit Verbrenner durch Lithi
 Inzwischen hat Deutschland fast 4 Jahrzehnte lang den notwendigen Ausbau von Glasfaser-Infrastuktur vernachlässigt bzw. gänzlich prokrastiniert.
 - Die alternativlose Notwendigkeit zur Versorgung nicht nur von Gewerbe sondern jeden Haushalt mittels FTTB [Glasfaser ins Gebäude] bzw. FTTH [Glasfaser in jeden Haushalt] ist so offensichtlich dass die EU ein Förderverbot für Vectoring und andere Krückentechnologie erzwingen musste.
   - Ein "Recht auf Glasfaser-Anschluss" ist einzuführen!
+    - Entsprechende Anschlüsse sind kostenlos für Eigentümer und Mieter jener Wohn- und Gewerbeeinheiten zu installieren und dürfen sich [vgl. Telefonanschluss] nur durch eine diskriminierungsfreie "*TAL-Miete*" durch den nutzenden Anbieter refinanzieren.
+- Eine Entkopplung von Infrastruktur [Glasfasern, Richtfunk- und Mobilfunk] und Dienstleistung [Daten- und Telefoniedienste] ist durchzuführen und entsprechende Infrastruktur als Anstalt öffentlichen Rechts (AöR) oder gemeinnützige Genossenschaft (gem. eG) zusammenzulegen.
+  - Dies soll Mehrfachüberbauung und Rosinenpickerei verhindern, die Effizienz der Infrastruktur steigern und vorallem langfristig Kapazitäten zwecks quasi 100%-iger Abdeckung bündeln.
 
 
 
@@ -195,7 +199,7 @@ Sämtliche Dokumente, Unterlagen und Informationen seitens Behörden, Unternehme
 ####	Verantwortbarkeit
 #####	Konsequenzen!
 Verhalten und Aktionen, die gesetzestreue Bürgerinnen nicht vollziehen dürften und mit strafrechtlichen Konsequenzen geahndet würden, sind auch bei Behörden sowie Amts- und Mandatsträgerinnen nicht zu dulden oder zu akzeptieren!
-- Egal ob es sich um Gewalt durch Polizistinnen, Strafvereitelung im Amt, Unterschlagung von Informationen oder Veruntreuung von Geldern bzw. vorsätzliche Erzeugung von Schäden zulasten der Allgemeinheit angeht: Es kann nicht sein dass Straftäterinnen davonkommen!
+- Egal ob es sich um Gewalt durch Polizist*innen, Strafvereitelung im Amt, Unterschlagung von Informationen oder Veruntreuung von Geldern bzw. vorsätzliche Erzeugung von Schäden zulasten der Allgemeinheit angeht: Es kann nicht sein dass Straftäterinnen davonkommen!
 
 
 
